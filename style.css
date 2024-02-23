@@ -33,3 +33,7 @@ body{
     width: 100%;
     font-size: 28px;
 }
+
+.titulo-principal span{
+    color:var(--verde)
+}
