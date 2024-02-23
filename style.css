@@ -17,3 +17,8 @@ body{
     color: var(--cinza);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+}
