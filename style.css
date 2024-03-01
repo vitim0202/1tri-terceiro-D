@@ -2,17 +2,18 @@
 
 :root{
     --cinza: #273142;
-    --marrom:#745e50;
+    --rosa: #FE857E;
+    --salmão: #EE9C92;
     --bege: #D3B9A3;
-    --rosa: #ff948b;
+    --verde: #BCD8BF;
     --verdeclaro: #E3E8CD;
-    --botao-inativo: #fcd487
+    --botao-inativo: rgba(58, 55, 94, 0.5);
     --botao-ativo: rgba(17, 209, 243, 0.795);
 }
 
 body{
     background-color: var(--salmão);
-    color: var(--verde);
+    color: var(--cinza);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
 
@@ -33,13 +34,13 @@ body{
 }
 
 .titulo-principal span{
-    color:var(--rosa)
+    color:var(--cinza)
 }
 
 .botao{
     font-family: 'Chakra Petch', 'Sans-Serif';
     background-color: var(--botao-inativo);
-    color: var(--rosa);
+    color: var(--cinza);
     display:flex;
     justify-content: center;
     padding: 1em;
