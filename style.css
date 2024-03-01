@@ -14,7 +14,7 @@
 
 body{
     background-color: var(--salmão);
-    color: var(--amarelo);
+    color: var(--cinza);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
 
@@ -35,7 +35,7 @@ body{
 }
 
 .titulo-principal span{
-    color:var(--cinza)
+    color:var(--amarelo)
 }
 
 .botao{
