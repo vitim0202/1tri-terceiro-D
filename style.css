@@ -3,11 +3,10 @@
 :root{
     --cinza: #273142;
     --rosa: #FE857E;
-    --salmão: #EE9C92;
     --bege: #D3B9A3;
     --verde: #BCD8BF;
     --verdeclaro: #E3E8CD;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --botao-inativo: #EE9C92;
     --botao-ativo: rgba(17, 209, 243, 0.795);
 }
 
