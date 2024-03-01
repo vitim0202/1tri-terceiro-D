@@ -9,11 +9,12 @@
     --verdeclaro: #E3E8CD;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --botao-ativo: #fcd487;
+    --amarelo: #fcd487;
 }
 
 body{
     background-color: var(--salmão);
-    color: var(--cinza);
+    color: var(--amarelo);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
 
