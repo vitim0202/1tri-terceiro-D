@@ -34,13 +34,13 @@ body{
 }
 
 .titulo-principal span{
-    color:var(--cinza)
+    color:var(--verde)
 }
 
 .botao{
     font-family: 'Chakra Petch', 'Sans-Serif';
     background-color: var(--botao-inativo);
-    color: var(--cinza);
+    color: var(--verde);
     display:flex;
     justify-content: center;
     padding: 1em;
